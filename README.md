@@ -1,3 +1,10 @@
+### 说明
+
+本项目为D3 Graph Theory的中文翻译。以方便混沌学社学员学习所用，同时分享给大家。
+
+---
+
+
 <p align="center">
   <img src="img/banner.png" style="max-width:100%;">
 </p>
