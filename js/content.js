@@ -8,7 +8,7 @@ var contentData =
 
 		"interface-title":		"App 界面:",
 
-		"interface-content":		"<ul> <li>要添加顶点，请在空白处单击左键<b>left click<\/b>。<\/li><li>要添加边缘，可以从一个顶点<b>拖放<\/b>到另一个顶点上。<\/li><li>要删除顶点\/边缘只需要 <b>右击<\/b> 它。<\/li><li>要移动顶点<b>按住Ctrl直接拖放<\/b>它。<\/li><li>要看到顶点\/边缘的名字只需要将<b>光标悬停在其上方<\/b>。<\/li><\/ul>",
+		"interface-content":		"<ul> <li>要添加顶点，请在空白处单击左键<b>left click<\/b>。<\/li><li>要添加边，可以从一个顶点<b>拖放<\/b>到另一个顶点上。<\/li><li>要删除顶点\/边只需要 <b>右击<\/b> 它。<\/li><li>要移动顶点<b>按住Ctrl直接拖放<\/b>它。<\/li><li>要看到顶点\/边的名字只需要将<b>光标悬停在其上方<\/b>。<\/li><\/ul>",
 
 		"svg-buttons":		"<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Clear All</button>",
 
@@ -29,7 +29,7 @@ var contentData =
 
 		"interface-title":		"App 界面:",
 
-		"interface-content":		"<ul> <li>要添加顶点，请在空白处单击左键<b>left click<\/b>。<\/li><li>要添加边缘，可以从一个顶点<b>拖放<\/b>到另一个顶点上。<\/li><li>要删除顶点\/边缘只需要 <b>右击<\/b> 它。<\/li><li>要移动顶点<b>按住Ctrl直接拖放<\/b>它。<\/li><li>要看到顶点\/边缘的名字只需要将<b>光标悬停在其上方<\/b>。<\/li><\/ul>",
+		"interface-content":		"<ul> <li>要添加顶点，请在空白处单击左键<b>left click<\/b>。<\/li><li>要添加边，可以从一个顶点<b>拖放<\/b>到另一个顶点上。<\/li><li>要删除顶点\/边只需要 <b>右击<\/b> 它。<\/li><li>要移动顶点<b>按住Ctrl直接拖放<\/b>它。<\/li><li>要看到顶点\/边的名字只需要将<b>光标悬停在其上方<\/b>。<\/li><\/ul>",
 
 
 		"svg-buttons":		"<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Clear All</button>",
