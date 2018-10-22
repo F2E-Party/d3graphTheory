@@ -45,13 +45,14 @@ var contentData =
 
 	"degree-of-vertex": {
 
-		"content-title": "Degree of a Vertex",
+		"content-title": "顶点的度数（Degree）",
 
-		"theory-content":		"<p><b>Degree<\/b> of a vertex is the number of edges falling on it. It tells us how many other vertices are adjacent to that vertex.<\/p><p> In the diagram, each vertex is labelled by its degree. Make some changes and see how degree of vertices change. <\/p><p> Degree of a vertex \\(v\\) is denoted by \\(deg(v)\\). The vertices with \\(deg(v)=0\\) are lone wolves &mdash; unattached to anyone. We have a special name for them. <\/p><p> The vertices having <b>zero degree<\/b> are called <b>isolated vertices.<\/b> They don't have any other vertex connected to them. <\/p><p> The minimum degree in a graph \\(G\\) is symbolized by \\(\\delta(G)\\). And the maximum one by \\(\\Delta(G)\\). To avoid confusion between them, remember that \\(\\delta\\) is the \"small delta\" and \\(\\Delta\\) is the \"big delta\". <\/p><div class=\"note\"> <span class=\"note-word\">Note:<\/span> Remember that \\(\\delta\\) and \\(\\Delta\\) are properties of a graph, whereas \\(deg\\) is property of a vertex. <\/div>",
+		"theory-content":		"<p>顶点的<b>度数<\/b> 是落在它上面的边数。它告诉我们，有多少顶点与该顶点相邻。<\/p><p> 在图中，每个顶点都用其度数标记。做一些修改，看看顶点的度数如何变化。 <\/p><p> 顶点 \\(v\\) 的度数由\\(deg(v)\\)表示。  \\(deg(v)=0\\) 的顶点是独立的 &mdash;没有任何连接。我们专门为其起了一个特殊的名字。 <\/p><p> <b>零度<\/b> 的顶点被叫做<b>孤立顶点（isolated vertices）。<\/b> 它们没有和任何其他顶点相连。 <\/p><p> 图 \\(G\\) 的最小度数由 \\(\\delta(G)\\)符号表示。并且最大值为\\(\\Delta(G)\\)。为了避免混淆这两个符号，请记住 \\(\\delta\\) 是 \"小写 delta\" 并且 \\(\\Delta\\)是 \"大写 delta\"。<\/p><div class=\"note\"> <span class=\"note-word\">注意:<\/span> 请记住 \\(\\delta\\) 和 \\(\\Delta\\) 是图的属性，而 \\(deg\\)是顶点的属性。 <\/div>",
 
-		"interface-title":		"App interface:",
+		"interface-title":		"App 界面:",
 
-		"interface-content":		"<ul> <li>To add a vertex <b>left click<\/b> on whitespace.<\/li><li>To add an edge <b>drag<\/b> from one vertex to another.<\/li><li>To delete a vertex\/edge <b>right click<\/b> on it.<\/li><li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><\/ul>",
+		"interface-content":		"<ul> <li>要添加顶点，请在空白处单击左键<b>left click<\/b>。<\/li><li>要添加边，可以从一个顶点<b>拖放<\/b>到另一个顶点上。<\/li><li>要删除顶点\/边只需要 <b>右击<\/b> 它。<\/li><li>要移动顶点<b>按住Ctrl直接拖放<\/b>它。<\/li><li>要看到顶点\/边的名字只需要将<b>光标悬停在其上方<\/b>。<\/li><\/ul>",
+
 
 		"svg-buttons":		"<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Clear All</button>",
 
